@@ -5,7 +5,7 @@ import java.util.List;
 public class Book {
  private List<Page> pages; 
 
-public class Page {
+private class Page {
 }
 
 public class Patron {
